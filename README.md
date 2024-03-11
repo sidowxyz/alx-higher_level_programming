@@ -12,16 +12,15 @@ The `alx-higher_level_programming` repository is structured to provide a progres
 - [Projects](#projects)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
+
 
 ## Installation
 
 To get started with these projects, you'll need to clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/<your-username>/alx-higher_level_programming.git
+git clone https://github.com/sidowxyz/alx-higher_level_programming.git
 cd alx-higher_level_programming
 ```
 
