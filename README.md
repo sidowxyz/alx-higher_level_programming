@@ -1,6 +1,3 @@
-Certainly! Below is a professional template for a README.md file, tailored for your `alx-higher_level_programming` repository. This version includes sections commonly found in high-quality software project documentation. You'll need to fill in or adjust any placeholder content to suit your specific project details.
-
-```markdown
 # ALX Higher Level Programming
 
 Welcome to the `alx-higher_level_programming` repository, an integral part of the ALX Software Engineering programme aimed at cultivating proficient software engineers with a keen expertise in high-level programming languages, primarily Python. This repository is a curated collection of projects and exercises designed to challenge and enhance your programming skills, algorithmic thinking, and software development proficiency.
@@ -54,21 +51,9 @@ Replace `<script-name>` with the name of the script you wish to run.
 
 We appreciate your interest in contributing to the `alx-higher_level_programming` repository. Before sending a pull request, please read our [Contribution Guidelines](CONTRIBUTING.md). By participating, you are expected to uphold this code.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
 - ALX Africa and the Holberton School for providing the learning platform.
 - The numerous contributors and mentors who invest their time and expertise.
 
-## Contact
-
-For any inquiries or further discussions, you can contact me at [Your Email](mailto:youremail@example.com).
-
----
-© 2024 [Your Name]. All Rights Reserved.
-```
-
-Make sure to replace placeholders like `<your-username>`, `Your Email`, and `[Your Name]` with your actual GitHub username, professional email address, and name, respectively. Additionally, consider creating `CONTRIBUTING.md` and `LICENSE.md` files to provide detailed contribution guidelines and licensing information.
